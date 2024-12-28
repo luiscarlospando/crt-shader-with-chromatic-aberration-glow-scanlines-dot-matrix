@@ -1,5 +1,5 @@
 # CRT Shader with Chromatic Aberration, Glow, Scanlines, and Dot Matrix
-![Screenshot of CRT Pastel Warp terminal theme](./assets/icon-ghostty.png)
+![Screenshot of CRT Pastel Warp terminal theme](./assets/screenshot.png)
 
 This shader is what I use on the [Ghostty](https://github.com/ghostty-org/ghostty) terminal. It adds chromatic aberration, glow, scanlines and dot matrix for an authentic CRT look.
 
