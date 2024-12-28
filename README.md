@@ -15,9 +15,7 @@ git clone https://github.com/luiscarlospando/crt-shader-with-chromatic-aberratio
 custom-shader = /path/to/wherever/you/cloned/this/repo/crt-shader-with-chromatic-aberration-glow-scanlines-dot-matrix.glsl
 ```
 
-### Restart your terminal
-
-### Enjoy
+### Restart your terminal & enjoy
 
 ## Questions or comments?
 Feel free to [contact me](https://luiscarlospando.com/contacto) or if you feel like it, you can [buy me a beer](https://www.buymeacoffee.com/luiscarlospando)! 🍺
